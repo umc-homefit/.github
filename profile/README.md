@@ -1,6 +1,12 @@
 <div align="center">
 
-# 🏠 HomeFit
+<p>
+  <img src="../assets/brand/homefit-logo.png" alt="HomeFit logo" width="150" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="../assets/brand/homefit-mascot.png" alt="HomeFit mascot" width="235" />
+</p>
+
+# HomeFit
 
 ### “이 집, 내가 실제로 들어갈 수 있을까?”
 
@@ -30,6 +36,19 @@ HomeFit은 이 과정을 하나의 사용자 흐름으로 연결했습니다.
 ```
 
 > 분석 결과는 사용자가 입력한 정보와 공고 조건을 기반으로 한 예상 결과이며, 실제 심사 결과와 다를 수 있습니다.
+
+---
+
+## 📱 Product Preview
+
+<p align="center">
+  <img src="../assets/screens/home.png" alt="HomeFit 홈 화면" width="23%" />
+  <img src="../assets/screens/notices.png" alt="HomeFit 공고 탐색 화면" width="23%" />
+  <img src="../assets/screens/eligibility-result.png" alt="HomeFit 입주 가능성 분석 결과 화면" width="23%" />
+  <img src="../assets/screens/finance-recommendations.png" alt="HomeFit 추천 금융상품 화면" width="23%" />
+</p>
+
+<p align="center"><sub>홈 · 공고 탐색 · 입주 가능성 분석 · 금융상품 추천</sub></p>
 
 ---
 
@@ -111,11 +130,23 @@ Android 앱의 로그인부터 공고 탐색, 입주 가능성 분석, 금융상
 **Android–Backend 최종 스모크 테스트 완료**<br>
 조건 프로필 미입력, 일반 적격, 조건 탈락의 3개 시나리오로 공고·입주 가능성·금융상품 매칭 흐름을 검증했습니다.
 
+<br>
+
+<img src="../assets/demo/bexco-booth.png" alt="부산 BEXCO HomeFit 데모데이 현장" width="900" />
+
+<sub>2026년 8월 22일 · 부산 BEXCO HomeFit 부스</sub>
+
 </div>
 
 ---
 
 ## 👥 Team
+
+<p align="center">
+  <img src="../assets/demo/homefit-team-bexco.png" alt="부산 BEXCO 데모데이 HomeFit 팀 단체사진" width="100%" />
+</p>
+
+<p align="center"><sub>기획·디자인·Android·Backend가 함께 완성한 HomeFit 팀</sub></p>
 
 ### Backend
 
