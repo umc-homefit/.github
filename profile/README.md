@@ -179,7 +179,7 @@ Android 앱의 로그인부터 공고 탐색, 입주 가능성 분석, 금융상
 
 - [HomeFit Backend](https://github.com/umc-homefit/backend)
 - [HomeFit Android](https://github.com/umc-homefit/frontend)
-- [API Specification](https://app.notion.com/p/api-38e2a03e23d98097aa90e434b9017faa)
+- [API Specification](https://app.notion.com/p/API-c79cbf85754c832daaea81620d16342b)
 
 ---
 
